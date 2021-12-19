@@ -1,4 +1,4 @@
-# About
+## About
 
 Hello! Welcome to my page.
 I am a:
