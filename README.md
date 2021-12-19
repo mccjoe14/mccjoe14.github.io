@@ -1,4 +1,4 @@
-# Joe's Website
+# About
 
 Hello! Welcome to my page.
 I am a:
